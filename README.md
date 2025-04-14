@@ -48,13 +48,13 @@ Explore the Titanic dataset, handle missing values, visualize the data using mea
 
  ✅ 3. Bivariate Analysis
 - `Survived` vs `Sex`, `Pclass`, `Fare`, `Age`, and `Embarked`
-- Found strong relationship between survival and features like `Sex`, `Class`, `Fare`
+- Found a strong relationship between survival and features like `Sex`, `Class`, `Fare`
 - Correlation matrix heatmap created
 
  ✅ 4. Insights + Visual Observations
 - Observations written below each visual
 - Used Seaborn & Matplotlib for better clarity
-- Summary section added at end of notebook
+- Summary section added at the end of the notebook
 
  ✅ 5. Interview Questions Section
 - Commonly asked EDA questions answered at the bottom of the notebook to help beginners
@@ -67,9 +67,7 @@ Explore the Titanic dataset, handle missing values, visualize the data using mea
 - 📌 Histogram  
 - 📌 Boxplot  
 - 📌 Correlation Heatmap  
-- (Optional) Pairplot skipped for performance
-
----
+  
 
 💡 Summary of Findings
 
