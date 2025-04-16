@@ -77,10 +77,14 @@ The goal is to uncover insights into how different factors such as gender, paren
 
 ## 📄 Files Included
 
-- `EDA_Student Performance.ipynb` – Full code notebook  
-- `EDA_Report_Student_Performance.pdf` – Summary PDF  
-- `EDA_StudentsPerformance_FIXED.docx` – Screenshot + visual report  
-- All visualizations included with captions
+- `EDA_Student Performance.ipynb` – Full Python analysis notebook  
+- `Exploratory Data Analysis Report.pdf` – Final summary report in PDF format  
+- `StudentsPerformance.csv` – Original dataset used for analysis  
+- `TASK 5 DA.pdf` – Screenshot-based visual report submission  
+- `README.md` – Project overview and instructions
+
+---
+
 
 ---
 
