@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis (EDA) – Student Performance Dataset
+📊 Exploratory Data Analysis (EDA) – Student Performance Dataset
 
 This project presents a detailed exploratory analysis of the    StudentsPerformance.csv    dataset.  
 The goal is to uncover insights about how different factors such as gender, parental education, and test preparation affect students' academic performance across Math, Reading, and Writing.
